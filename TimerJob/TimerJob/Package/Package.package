@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cd9a25f0-ede3-4795-baeb-de2fdd4aa091" 
+        solutionId="cd9a25f0-ede3-4795-baeb-de2fdd4aa091" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TimerJob"
+        sharePointProductVersion="15.0">
+</package>
